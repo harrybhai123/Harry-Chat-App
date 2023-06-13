@@ -9,7 +9,7 @@ A real-time chat application built with React, Firebase, and Google Login.
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c87f0a84-6ac7-4d11-86c0-8105717fbda2/deploy-status)](https://app.netlify.com/sites/harry-chat-application/deploys)
 
 <!-- Add a project screenshot or demo GIF -->
-![Chat Application Screenshot](/screenshot.png)
+![Chat Application Screenshot](public/redme.png)
 
 <!-- Introduce your project and its key features -->
 ## Overview
