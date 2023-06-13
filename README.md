@@ -31,6 +31,10 @@ Follow the steps below to run the project locally:
 5. Start the development server: `npm start`
 6. Open the application in your browser: `http://localhost:3000`
 
+<!-- Include a section about the live demo -->
+## Live Demo
+Check out the live demo of the chat application: [Live Demo](https://harry-chat-application.netlify.app/)
+
 <!-- Include a section about contributing to the project -->
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
