@@ -193,7 +193,7 @@ export function DrawerWithNav(props) {
                     label={unreadCount}
                     color={unreadCount > 0 ? 'primary' : 'secondary'}
                     sx={{ display: open && unreadCount > 0 ? 'flex' : 'none' }}
-                    // variant='outlined'
+                  // variant='outlined'
                   />
                 </ListItemButton>
               </ListItem>
